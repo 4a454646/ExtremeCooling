@@ -1,5 +1,5 @@
 # ExtremeCooling
-A simple way to max out your Lenovo Legion fans, via the command line.
+A simple way to control (read: max out) your Lenovo Legion fans, via the command line. Targeted towards Linux users.
 
 Based off the work of [Alberto Vicente from GitLab](https://gitlab.com/OdinTdh/extremecooling4linux). This removes all GUI elements and only necessitates one command: `./c.sh`.
 
